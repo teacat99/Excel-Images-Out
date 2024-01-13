@@ -53,7 +53,7 @@ while True:
         raw_path = input("请输入Excel文件的路径: ")
         excel_file_path = clean_path(raw_path)
         # 调试用
-        print(excel_file_path)
+        # print(excel_file_path)
 
         # 验证文件是否存在
         if not os.path.exists(excel_file_path):
@@ -66,7 +66,7 @@ while True:
 
 # 获取Excel文件所在的目录
 base_output_folder = os.path.dirname(excel_file_path)
-print(f"基础输出文件夹设定为：{base_output_folder}\n")
+print(f"\n基础输出文件夹设定为：{base_output_folder}\n")
 
 # 加载工作簿
 print("正在加载工作簿...\n")
