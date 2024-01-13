@@ -58,40 +58,40 @@
 
 正在处理工作表：汇总
 
-创建工作表文件夹：D:\TeacatData\Desktop\打包\汇总
+创建工作表文件夹：D:\TeacatData\Desktop\汇总
 
 发现图像位于：B2, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\20240113 设备现场照片.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\20240113 设备现场照片.jpg
 
 发现图像位于：B3, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 CPU.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 CPU.jpg
 
 发现图像位于：B4, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 RAID卡.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 RAID卡.jpg
 
 发现图像位于：B5, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 电源模块.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 电源模块.jpg
 
 发现图像位于：B6, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 风扇.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 风扇.jpg
 
 发现图像位于：B7, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 内存.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 内存.jpg
 
 发现图像位于：B8, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 资产 W1234567890.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 资产 W1234567890.jpg
 
 发现图像位于：B9, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 Sku AB1.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 Sku AB1.jpg
 
 发现图像位于：B10, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 网卡.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 网卡.jpg
 
 发现图像位于：B11, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 硬盘.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 硬盘.jpg
 
 发现图像位于：B12, 准备处理...
-图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 主板.jpg
+图像保存至：D:\TeacatData\Desktop\汇总\设备 0000000000000001 主板.jpg
 
 图像导出完成。输出目录：D:\TeacatData\Desktop
 
@@ -110,5 +110,4 @@
 如果您有任何问题或建议，请通过以下方式联系我：
 
 - GitHub: [teacat99](https://github.com/teacat99)
-- 邮箱: teacat99@outlook.com
 
