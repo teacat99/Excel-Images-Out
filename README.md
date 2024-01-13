@@ -29,8 +29,8 @@
 免责声明：图片导出前请注意Excel文件的备份，使用本程序造成的Excel文件损坏等，均由用户自行承担，与作者无关。
 
 请提供Excel文件的完整路径，例如：C:\Users\YourName\Documents\example.xlsx，可以使用 Ctrl+Z 加回车退出输入。
-请输入Excel文件的路径: D:\Teacat99Data\Desktop\收货核验明细.xlsx
-D:\Teacat99Data\Desktop\收货核验明细.xlsx
+请输入Excel文件的路径: D:\Teacat99Data\Desktop\Test.xlsx
+
 基础输出文件夹设定为：D:\TeacatData\Desktop
 
 正在加载工作簿...
