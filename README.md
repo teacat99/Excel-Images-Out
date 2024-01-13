@@ -29,9 +29,9 @@
 免责声明：图片导出前请注意Excel文件的备份，使用本程序造成的Excel文件损坏等，均由用户自行承担，与作者无关。
 
 请提供Excel文件的完整路径，例如：C:\Users\YourName\Documents\example.xlsx，可以使用 Ctrl+Z 加回车退出输入。
-请输入Excel文件的路径: D:\TeacatData\Desktop\打包\收货核验明细.xlsx
-D:\TeacatData\Desktop\打包\收货核验明细.xlsx
-基础输出文件夹设定为：D:\TeacatData\Desktop\打包
+请输入Excel文件的路径: D:\Teacat99Data\Desktop\收货核验明细.xlsx
+D:\Teacat99Data\Desktop\收货核验明细.xlsx
+基础输出文件夹设定为：D:\TeacatData\Desktop
 
 正在加载工作簿...
 
@@ -93,7 +93,7 @@ D:\TeacatData\Desktop\打包\收货核验明细.xlsx
 发现图像位于：B12, 准备处理...
 图像保存至：D:\TeacatData\Desktop\打包\汇总\设备 0000000000000001 主板.jpg
 
-图像导出完成。输出目录：D:\TeacatData\Desktop\打包
+图像导出完成。输出目录：D:\TeacatData\Desktop
 
 按Enter键退出...
 ```
